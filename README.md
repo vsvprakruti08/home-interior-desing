@@ -11,7 +11,6 @@
 
 📁 `index.html`: The main homepage of the website.<br/>
 📁 `book.html`: Page for users to get a quote and book a design service.<br/>
-📁 `corona.html`: Page providing information about COVID-19 precautions taken by the company.<br/>
 📁 `design.html`: Page showcasing design ideas for different rooms in a home.<br/>
 📁 `how.html`: Page explaining how the design process works.<br/>
 📁 `visit.html`: Page with information on how to visit the company.<br/>
